@@ -10,7 +10,7 @@
 
   <h3 align="center">Docente</h3>
 
-  <h1 align="center">Título</h1>
+  <h3 align="center">Título</h3>
 </p>
 
 ## Sobre
