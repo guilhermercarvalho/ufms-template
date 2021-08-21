@@ -13,20 +13,13 @@
   <h1 align="center">Título</h1>
 </p>
 
-
-# 
-
 ## Sobre
-
----
 
 [![Product Name Screen Shot][screenshot]](https://example.com)
 
 Descrição e objetivo do projeto.
 
 ## Tecnologia
-
----
 
 ### Linguagens e Frameworks
 
@@ -37,8 +30,6 @@ Descrição e objetivo do projeto.
 - Lista das ferramentas utilizadas.
 
 ## Começando
-
----
 
 Como utilizar o projeto localmente.
 
@@ -56,13 +47,9 @@ Descrição dos pré-requisitos.
 
 ## Uso
 
----
-
 Exemplos de como o projeto pode ser usado.
 
 ## Licensa
-
----
 
 Distribuído sob a licença [MIT][license-url]. Veja `LICENSE` para mais informações.
 
